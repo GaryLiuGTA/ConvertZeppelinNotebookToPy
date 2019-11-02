@@ -2,7 +2,7 @@ import json
 import codecs
 from os import path
 
-source_files = [r'C:\Users\t926528\Downloads\T926528_AdHoc_DAL_Testing.json', r'C:\Users\t926528\Downloads\_T926528_RTM_Manual.json']
+source_files = [r'C:\Testing.json', r'C:\Testing2.json']
 extract_language = ['python', 'markdown']
 
 for source_file in source_files:
